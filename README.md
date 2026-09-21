@@ -13,7 +13,7 @@ BoT-SORT 기반 Multi-Object Tracking을 적용하여 선수별 ID를 지속적�
 또한 선수의 이동 궤적(Trajectory)을 시각화하고,
 FP32 모델을 OpenVINO INT8 모델로 양자화하여 경량화 전후의
 모델 크기, 추론 속도(FPS), CPU 사용률 및 검출 성능을 비교했습니다.
-
+<img src="tracking_screenshot.png" width="100%>
 ### 프로젝트 목표
 
 - 배구 경기 영상 내 선수 검출
