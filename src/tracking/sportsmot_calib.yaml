@@ -1,0 +1,7 @@
+path: C:/Users/AISW_203_115/Desktop/volleyball-tracking/data/sportmot/val/val/v_9MHDmAMxO5I_c009
+
+train: img1
+val: img1
+
+names:
+  0: person
